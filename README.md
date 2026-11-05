@@ -1,21 +1,16 @@
-Pharmacy Management System
+# Pharmacy Management System
 
-Project Description
-
+## Project Description
 A Pharmacy Management System developed using Java and MySQL.
 This system helps manage medicines, staff, purchases, and sales efficiently.
 
-
-Technologies Used
-
+## Technologies Used
 - Java
 - MySQL
 - JDBC
 - Eclipse IDE
 
-
-Main Features
-
+## Main Features
 - Medicine Management
 - Staff Management
 - Medicine Information Management
@@ -25,8 +20,7 @@ Main Features
 - Sales Management
 - Stock Management
 
-
-Project Structure
+## Project Structure
 
 src/
 └── main/
@@ -37,8 +31,7 @@ src/
         ├── util/
         └── view/
 
-
-Installation
+## Installation
 
 1. Clone or download this repository.
 2. Open the project in Eclipse IDE.
@@ -46,9 +39,7 @@ Installation
 4. Set up the required database and tables.
 5. Run the application.
 
-
-Author
-
+## Author
 Phyo Ei San
 
 ## Project Type
